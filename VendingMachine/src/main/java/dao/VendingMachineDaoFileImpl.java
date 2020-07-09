@@ -73,7 +73,7 @@ public class VendingMachineDaoFileImpl implements VendingMachineDao{
     }
 
     private String marshallItem(Item anItem){
-        String itemAsText = anItem.getItemName() + DELIMITER + anItem.getItemCost() + DELIMITER + anItem.getNumItems() + DELIMITER;
+        String itemAsText = anItem.getItemName() + DELIMITER + anItem.getItemCost() + DELIMITER + anItem.getNumItems() +DELIMITER;
         return itemAsText;
     }
 

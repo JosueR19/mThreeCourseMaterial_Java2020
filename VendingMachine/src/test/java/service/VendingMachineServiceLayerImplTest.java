@@ -87,5 +87,4 @@ class VendingMachineServiceLayerImplTest {
         }
     }
 
-    //test for failures in purchaseItem
 }

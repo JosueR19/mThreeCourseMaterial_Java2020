@@ -1,4 +1,4 @@
-Coca-Cola::1.75::1::
+Coca-Cola::1.75::0::
 Water::1.25::0::
 Sprite::1.75::2::
-Monster::3::2::
+Monster::3::0::
